@@ -1,0 +1,7 @@
+name: Guest Comments Module
+description: Deletes the (not verified) status in guest comments
+package: Custom
+type: module
+version: 1.0
+core: 8.x
+core_version_requirement: ^8 || ^9
